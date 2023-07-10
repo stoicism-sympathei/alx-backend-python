@@ -1,5 +1,4 @@
 # 0x01. Python - Async
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210726%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210726T055749Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=804cd64960f639511592105cc18f131c2e4c68ad68e6d33a89d9eaa992caebab)
 
 ## Resources
 
